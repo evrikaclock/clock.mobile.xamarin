@@ -1,1 +1,1 @@
-# evrikaClock.mobile.xamarin
+# Mobile client for Evrika clock 
