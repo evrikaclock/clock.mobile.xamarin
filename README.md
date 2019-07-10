@@ -1,1 +1,1 @@
-# Amazing and cross-platform mobile client for Evrika clock 
+# Mobile client for Evrika clock 
